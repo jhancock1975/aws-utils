@@ -1,1 +1,1 @@
-# Python scripts for managing AWS instances
+# Scripts for managing AWS instances
